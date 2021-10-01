@@ -1,3 +1,4 @@
+https://learn.alwaysai.co/build-your-own-video-streaming-server-with-flask-socketio
 # Video Streamer
 This alwaysAI app performs realtime object detection and streams video and text data to a Flask-SocketIO server that can be located on another device.
 
